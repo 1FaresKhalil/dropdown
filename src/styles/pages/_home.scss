@@ -1,0 +1,11 @@
+.app-container {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.app-container.fade {
+  opacity: 1;
+}
+.font-reguler {
+  font-weight: 400;
+}
